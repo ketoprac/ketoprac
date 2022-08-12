@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketoprac&label=Profile%20views&color=0e75b6&style=flat" alt="ketoprac" /> </p>
 
+- 🔭 I’m currently looking for a **Front End Development job**
+
 - 👨‍💻 All of my projects are available at [ketoprac.github.io](ketoprac.github.io)
 
 - 💬 Ask me about **React, Next, and Front End Development**
