@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently looking for a **Front End Development job**
 
-- 👨‍💻 All of my projects are available at [ketoprac.github.io](ketoprac.github.io)
-
-- 💬 Ask me about **React, Next, and Front End Development**
+- 👨‍💻 All of my projects are available at [Here](https://hafiedzmada-git-master-ketoprac.vercel.app/)
 
 - 📫 How to reach me **hafiedzmada@gmail.com**
 
