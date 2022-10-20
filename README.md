@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fullstack Development**
 
-- 👨‍💻 All of my projects are available at [hafiedzmada-git-master-ketoprac.vercel.app](hafiedzmada-git-master-ketoprac.vercel.app)
+- 👨‍💻 All of my projects are available at hafiedzmada-git-master-ketoprac.vercel.app
 
 - 📫 How to reach me **hafiedzmada@gmail.com**
 
